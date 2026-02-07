@@ -1,2 +1,2 @@
 console.log('hello world');
-console.log('you are styped')
+console.log('you are stuped');
