@@ -1,0 +1,25 @@
+{
+  "name": "new-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JINX-SF/git-totu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JINX-SF/git-totu/issues"
+  },
+  "homepage": "https://github.com/JINX-SF/git-totu#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "loadash": "^1.0.0"
+  }
+}
